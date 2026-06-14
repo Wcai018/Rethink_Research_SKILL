@@ -1,0 +1,10 @@
+{
+  "name": "rethink-research-marketplace",
+  "plugins": [
+    {
+      "name": "rethink-research",
+      "path": ".",
+      "description": "Kill bad research ideas fast. Filters research directions through literature, engineering reality, and structural gap analysis across 5 stages."
+    }
+  ]
+}
